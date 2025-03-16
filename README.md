@@ -1,2 +1,1 @@
-# srv_module3_task1
-First task in module 3 where learning how to deploy using Render.com
+Task Solution for Server Deployment - Module 3 Lesson 1 Task
